@@ -15,8 +15,8 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Galactic Chemical Evolution<br />Undergraduate literature review, Steward Observatory.; Tucson, AZ, USA",
+    32.2228765,
+    -110.974847
   ]
 ];
